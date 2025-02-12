@@ -1,0 +1,14 @@
+#undef HPP_WIN_IMPL
+#undef HPP_POSIX_IMPL
+
+#undef DETAIL_HPP_IF0
+#undef DETAIL_HPP_IF1
+#undef DETAIL_HPP_IF
+#undef HPP_IF
+
+#undef DETAIL_HPP_EMPTY
+#undef DETAIL_HPP_NON_EMPTY
+#undef DETAIL_HPP_IFE0
+#undef DETAIL_HPP_IFE1
+#undef DETAIL_HPP_IFE
+#undef HPP_IFE
