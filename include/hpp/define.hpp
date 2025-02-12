@@ -1,3 +1,5 @@
+#include "details/check_ifndef.hpp"
+
 //Define platform
 #if defined(WIN32) || defined(__MINGW32__)
   #define HPP_WIN_IMPL 1
