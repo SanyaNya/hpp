@@ -1,4 +1,4 @@
-#include "details/check_ifndef.hpp"
+#pragma once
 
 //Define platform
 #if defined(WIN32) || defined(__MINGW32__)
