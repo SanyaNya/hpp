@@ -1,5 +1,5 @@
 #pragma once
 
-#define DETIAL_HPP_IS_EMPTY_ARG0 0
+#define DETAIL_HPP_IS_EMPTY_ARG0 0
 #define DETAIL_HPP_IS_EMPTY_ARG 1
 #define HPP_IS_EMPTY_ARG(...) DETAIL_HPP_IS_EMPTY_ARG ## __VA_OPT__(0)
