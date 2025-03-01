@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.31)
 
-project(hpp VERSION 1.6.1)
+project(hpp VERSION 1.7.0)
 
 #Require C++23 without compiler extensions
 set(CMAKE_CXX_STANDARD 23)
