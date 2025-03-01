@@ -1,0 +1,4 @@
+#pragma once
+
+#define DETAIL_HPP_STRINGIFY_EXPAND(x) #x
+#define HPP_STRINGIFY(x) DETAIL_HPP_STRINGIFY_EXPAND(x)
